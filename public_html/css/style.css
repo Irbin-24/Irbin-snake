@@ -6,3 +6,12 @@ body {
 #game-screen {
     display: block;
 }
+
+#gameOver{
+    position: absolute;
+    visibility: hidden;
+}
+
+h1,h3 {
+    
+}
